@@ -44,6 +44,27 @@ img {
   font-size: 1.25rem;
 }
 
+.nav {
+  background-color: rgb(47, 38, 101);
+  color: white;
+}
+
+#home:hover {
+  color: gold;
+}
+
+#products:hover {
+  color: gold;
+}
+
+#reservation:hover {
+  color: gold;
+}
+
+#studio:hover {
+  color: gold;
+}
+
 form input,
 form textarea {
   display: block;
