@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: #deeaf5;
+  background-color: #f2e2f5;
   margin: 0;
   padding: 0;
 }
@@ -21,7 +21,7 @@ h6 {
 }
 
 .skip {
-  background-color: #b1bae8;
+  background-color: #f2e2f5;
   color: rgb(0, 0, 0);
   width: 100%;
 }
@@ -32,8 +32,9 @@ h6 {
 
 header h1 {
   margin: 0;
-  background-color: #b1bae8;
+  background-color: #f2e2f5;
   padding: 1rem 0.5rem;
+  justify-content: ;
 }
 
 img {
@@ -61,7 +62,7 @@ img {
 }
 
 .nav {
-  background-color: rgb(47, 38, 101);
+  background-color: rgb(101, 38, 83);
   color: white;
 }
 
@@ -87,7 +88,7 @@ img {
   margin: 0.5rem;
   display: flex;
   flex-direction: column;
-  background-color: #b1bae8;
+  background-color: #efc2ed;
 }
 
 .ownerinfo {
@@ -122,10 +123,10 @@ form textarea {
 
 form button {
   background: none;
-  border: 2px solid black;
+  border: 2px solid rgb(101, 38, 83);
   padding: 1rem;
   text-transform: uppercase;
-  background-color: rgb(47, 38, 101);
+  background-color: rgb(101, 38, 83);
   color: white;
 }
 
