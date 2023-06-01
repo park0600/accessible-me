@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: #f2e2f5;
+  background-color: #f5f3e2;
   margin: 0;
   padding: 0;
 }
@@ -21,7 +21,7 @@ h6 {
 }
 
 .skip {
-  background-color: #f2e2f5;
+  background-color: #f5f3e2;
   color: rgb(0, 0, 0);
   width: 100%;
 }
@@ -32,7 +32,7 @@ h6 {
 
 header h1 {
   margin: 0;
-  background-color: #f2e2f5;
+  background-color: #f5f3e2;
   padding: 1rem 0.5rem;
   justify-content: ;
 }
@@ -88,7 +88,7 @@ img {
   margin: 0.5rem;
   display: flex;
   flex-direction: column;
-  background-color: #efc2ed;
+  background-color: #ece7c1;
 }
 
 .ownerinfo {
